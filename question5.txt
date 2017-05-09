@@ -1,0 +1,14 @@
+Question #5
+
+Check out the project’s current issues. 
+How do they resolve pull requests? 
+Can you get a sense of how contributions are evaluated in this community? 
+How is the community organized? 
+How is the repository/project organized?
+
+The resolved pull requests by clicking the pull requests icon. It should 
+show a list.  The click on the pull request with a merge conflict that you'd
+like to fix. Near the bottom of your pull request, click Resolve conflicts.
+The community contributes by answering forums called Change log for questions.
+The community is organized by versions of phaser.
+The repository/project is organized by branches in git.
